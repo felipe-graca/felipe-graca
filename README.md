@@ -1,28 +1,28 @@
 ### Hi, I'm Felipe, and I'm a Mobile Software Engineer, and I'm passionate about learning new technologies and sharing knowledge. 👋👋
 
+<br>
+<br>
+<br>
+
 <div align="center">
 
- ![felipe-graca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-graca&theme=midnight-purple&hide_border=false)
+ ![felipe-graca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-graca&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
-
+## Languages and Tools:
 <h4> 
-    <ul>
-        <li>🖼️ I'm a UI/UX enthusiast</li>
-        <li>📱 I'm currently working with Android and Flutter </li>
-        <li>🌱 I’m currently learning about Flutter and NestJSs</li>
-        <li>📐 Architectural patterns: MVVM, MVC, MVP, Clean Architecture</li>
-        <li>📄 Testing: Unit, Integration, UI</li>
-   </ul>
+    🖼️ I'm a UI/UX enthusiast<br>
+    📱 I'm currently working with Android and Flutter<br>
+    🌱 I’m currently learning about Flutter and NestJS<br>
+    📐 Architectural patterns: MVVM, MVC, MVP, Clean Architecture<br>
+    📄 Testing: Unit, Integration, UI<br>
 </h4>
 
 
 
-<h4> 
-    📫 How to reach me
-</h4>
 
+## 📫 How to reach me
 <p align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fgraca_/)
