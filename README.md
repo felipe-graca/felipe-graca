@@ -6,7 +6,7 @@
 
 <div align="center">
 
- ![felipe-graca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-graca&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+ ![felipe-graca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-graca&theme=tokyonight&hide_border=true&background=000000&stroke=DDDDDD&ring=DD2727&fire=FFDD00&sideNums=FFFF00&currStreakNum=00FF00&sideLabels=00FFFF&currStreakLabel=FF00FF&dates=FFFFFF)
 
 </div>
 
